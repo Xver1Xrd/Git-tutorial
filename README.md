@@ -846,11 +846,3 @@ Content Cell  | Content Cell
 | Content Cell  | Content Cell    | **bold**              |
 | Content Cell  | Content Cell    | ~~strikethrough~~     |
 | Content Cell  | Content Cell    | [link](https://ya.ru) |
-Ссылки
-Официальное руководство по синтаксису Markdown
-Basic writing and formatting syntax on GitHub
-Markdown на Википедии
-Шпаргалка по Markdown
-Онлайн Markdown редактор (на GitHub)
-Онлайн Markdown редактор
-10-минутный интерактивный туториал
